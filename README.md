@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # theAIDeveloper
 
@@ -101,3 +102,7 @@ Explore our website for more resources: [Explore our website: theAIDeveloper.com
 
 This project is licensed under the [MIT License](LICENSE).
 ```
+=======
+# GeminiClone
+AI-powered chat assistant built with Next.js, TypeScript, and Tailwind CSS. It integrates with Google’s Gemini API to provide real-time, intelligent responses. The project supports configurable chat settings, maintains conversation history, and is designed to assist with HR and recruitment use cases.
+>>>>>>> 0989587b6a4ceccafad3d6e6845bc5f269b8e781
